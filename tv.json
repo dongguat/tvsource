@@ -1,0 +1,447 @@
+{
+	"spider": "https://gitee.com/tvboxx/tv/raw/master/jar/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
+ "lives": [
+    {
+      "name": "无",
+      "type": 0,
+      "url": "http://110.42.69.237:2233/app/live.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    }
+  ],
+	"sites":[
+ {
+                      "key": "js豆瓣",
+"name": "💕豆瓣丨关注QQ群:2160052354",
+"type": 3,
+"api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
+},
+
+ {
+      "key": "ttys",
+            "name": "🔥爱家|4K①",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+        {
+        "key":"csp_Gz360","name":"瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+        {
+ 
+
+            "key": "机哥剧圈",
+            "name": "🔥爱家|4K②",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/mg.js"
+        },
+        
+        {
+            "key": "爱奇艺弹幕",
+            "name": "🔥爱家|4K①",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/aiqiyi.js"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "🔥爱家|哔4K",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/zj521jj\/little-tiger-spot\/raw\/master\/drpy_libs\/drpy2.min.js",
+            "ext": "https:\/\/app.69mini.com\/lib1\/bili.js"
+        },
+        {
+            "key": "hipy_js_优酷[官]",
+            "name": "🔥爱家|酷4K",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/zj521jj\/little-tiger-spot\/raw\/master\/drpy_libs\/drpy2.min.js",
+            "ext": "https:\/\/app.69mini.com\/lib1\/优酷[官].js"
+        },
+    
+
+
+{"key":"天天","name":"天天┃影视","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{"key":"金牌","name":"金牌┃影视","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+ {
+     "key": "csp_qq",
+        "name": "┃官┃腾讯视频",
+        "type": 3,
+        "api": "csp_qq",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/ijiatv/ijys/raw/master/tv/%E5%AE%98%E6%BA%90.jar"
+    },  {
+        "key": "csp_iqiyi",
+        "name": "┃官┃奇艺影视",
+        "type": 3,
+        "api": "csp_iqiyi",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/ijiatv/ijys/raw/master/tv/%E5%AE%98%E6%BA%90.jar"
+    }, {
+        "key": "csp_mgtv",
+        "name": "┃官┃芒果电影",
+        "type": 3,
+        "api": "csp_mgtv",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/ijiatv/ijys/raw/master/tv/%E5%AE%98%E6%BA%90.jar"
+    }, {
+        "key": "csp-youku",
+        "name": "┃官┃优酷电影",
+        "type": 3,
+        "api": "csp_youku",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "jar": "https://gitee.com/ijiatv/ijys/raw/master/tv/%E5%AE%98%E6%BA%90.jar"
+    },
+
+
+  {
+  "key": "天堂采集资源",
+            "name": "🧡天堂┃影视",
+            "type": 1,
+            "api": "http:\/\/caiji.dyttzyapi.com\/api.php\/provide\/vod\/",
+            "jar": "http:\/\/47.120.41.246:8025\/vip\/jar\/xiaomi.php",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_非凡资源",
+            "name": "🧡非凡|收集",
+            "type": 1,
+            "api": "http:\/\/cj.ffzyapi.com\/api.php\/provide\/vod\/",
+            "playurl": "json:http:\/\/121.40.174.45:299\/sf\/2Kshouquan\/cache\/IP_manager\/API.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+
+"key": "bfzy1",
+      "name": "金蝉┃资源",
+      "type": 1,
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list  ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+          "电影",
+"电视剧",
+"综艺",
+"动漫",
+"少儿",
+"短剧",
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
+    },
+    {
+     
+  "key": "bfzy789",
+      "name": "789┃资源",
+      "type": 1,
+      "api": "https://www.caiji.cyou/api.php/provide/vod/?ac=list  ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+          "电影",
+"电视剧",
+"综艺",
+"动漫",
+"少儿",
+"短剧",
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
+    },
+  
+  
+{"key":"高中","name":"www.ijys.tv","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json","cookie":""}}
+],
+"parses": [{
+ "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+ 
+      "name": "爱家",
+      "type": 1,
+      "url": "http://202.189.6.83:12991/xx/gf2.php?url=",
+      "ext": {
+        "flag": [
+          "QD4K",
+          "iyf",
+          "duanju",
+          "gzcj",
+          "GTV",
+          "GZYS",
+          "weggz",
+          "Ace"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78",
+    "mtv",
+    "sjs",
+    "dbs",
+    "yds",
+    "HNB",
+    "JL4K"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "43.248.128.138"
+  ]
+}
