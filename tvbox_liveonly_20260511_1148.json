@@ -1,0 +1,33 @@
+﻿{
+    "spider":  "",
+    "warningText":  "当前配置只包含直播源，未包含点播源",
+    "wallPaper":  "",
+    "sites":  [
+
+              ],
+    "lives":  [
+                  {
+                      "name":  "直播",
+                      "type":  0,
+                      "url":  "https://cdn.jsdelivr.net/gh/dongguat/tvsource@main/live_20260511_1138.m3u",
+                      "playerType":  1
+                  }
+              ],
+    "parses":  [
+
+               ],
+    "flags":  [
+                  "youku",
+                  "qq",
+                  "iqiyi",
+                  "qiyi",
+                  "letv",
+                  "sohu",
+                  "tudou",
+                  "pptv",
+                  "mgtv",
+                  "wasu",
+                  "bilibili",
+                  "renrenmi"
+              ]
+}
